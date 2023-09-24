@@ -1,6 +1,6 @@
 # PRP Websites
 
-![PRP Websites Logo](https://avatars.githubusercontent.com/u/145897142?s=400&u=3530f404ae0382e27c9364d9be62483ee4f6e8fa&v=4)
+![PRP Websites Logo](https://avatars.githubusercontent.com/u/145897142?s=50&u=3530f404ae0382e27c9364d9be62483ee4f6e8fa&v=4)
 
 Welcome to the official repository of PRP Websites! This repository contains information and resources related to our website building services.
 
